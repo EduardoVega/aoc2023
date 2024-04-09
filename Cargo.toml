@@ -1,11 +1,11 @@
 [workspace]
 
 members = [
-    "day1",
-    "day1part2",
-    "day2",
-    "day2part2",
-    "day3",
+    "day1-rs",
+    "day1part2-rs",
+    "day2-rs",
+    "day2part2-rs",
+    "day3-rs",
 ]
 
 [workspace.dependencies]
