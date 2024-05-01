@@ -6,7 +6,10 @@ members = [
     "day2-rs",
     "day2part2-rs",
     "day3-rs",
+    "day4part2-rs",
+    "readerr",
 ]
 
 [workspace.dependencies]
 anyhow = "1.0.79"
+readerr= { path = "./readerr" }
